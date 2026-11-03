@@ -1,9 +1,9 @@
 <div align="center">
 
-👋 Hi, I'm Hadron Force Labs
+👋 Welcome to Hadron Force Labs
 🛡️ Desktop Application Developer | Cybersecurity Enthusiast
 
-Building tools. Exploring technology. Developing security solutions.
+Developing software. Exploring technology. Building security solutions.
 
 <img width="100%" src="https://github.com/user-attachments/assets/cb412460-1257-4d5c-9a2c-30175d99d617" alt="Hadron Force Labs Banner" />
 
@@ -15,12 +15,12 @@ Building tools. Exploring technology. Developing security solutions.
 
 🚀 About Me
 
-I'm Hadron Force Labs, a developer passionate about software development, desktop applications and cybersecurity.
+I'm the developer behind Hadron Force Labs, with a strong interest in software engineering, desktop application development and cybersecurity.
 
-🛡️ Interested in cybersecurity and security software.
-💻 Developing desktop applications and software tools.
-⚙️ Exploring new technologies and programming techniques.
-🎯 Focused on creating useful, powerful and reliable software.
+🛡️ Passionate about cybersecurity, reverse engineering and software security.
+💻 Focused on developing desktop applications and innovative software solutions.
+⚙️ Interested in exploring new technologies and advanced programming techniques.
+🎯 Committed to creating powerful, efficient and reliable software.
 🛠️ Languages & Technologies
 💻 Programming Languages
 
@@ -50,7 +50,7 @@ I'm Hadron Force Labs, a developer passionate about software development, deskto
 
 💖 Support My Work
 
-If you appreciate my work and want to support the development of Hadron Force Labs and Hadron Security, you can donate using the cryptocurrency addresses below.
+If you find my work valuable and would like to support my independent software development projects, you can contribute using the cryptocurrency addresses below.
 
 ₿ Bitcoin (BEP20)
 text
@@ -61,11 +61,11 @@ text
 TXNHD3ckJ9qpux7MkGTuZtq2JwLZwNUdrZ
 
 
-Thank you for supporting independent software development! ❤️
+Every contribution is greatly appreciated. Thank you for supporting independent development! ❤️
 
 <div align="center">
 
-⚡ Keep Building. Stay Secure.
+⚡ Innovate. Develop. Stay Secure.
 
 © 2027 Hadron Force Labs
 
