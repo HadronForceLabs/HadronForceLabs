@@ -1,7 +1,8 @@
 <div align="center">
 
-👋 Hi, We're Hadron Force Labs
-🛡️ Desktop Application Development | Cybersecurity
+👋 Hi, I'm Hadron Force Labs
+
+🛡️ Desktop Application Developer | Cybersecurity Enthusiast
 
 Building tools. Exploring technology. Developing security solutions.
 
