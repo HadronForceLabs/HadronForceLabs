@@ -1,7 +1,6 @@
 <div align="center">
 
 👋 Hi, I'm Hadron Force Labs
-
 🛡️ Desktop Application Developer | Cybersecurity Enthusiast
 
 Building tools. Exploring technology. Developing security solutions.
@@ -22,6 +21,8 @@ I'm Hadron Force Labs, a developer passionate about software development, deskto
 💻 Developing desktop applications and software tools.
 ⚙️ Exploring new technologies and programming techniques.
 🎯 Focused on creating useful, powerful and reliable software.
+🛠️ Languages & Technologies
+💻 Programming Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,php,python" alt="Programming Languages" />
@@ -45,7 +46,7 @@ I'm Hadron Force Labs, a developer passionate about software development, deskto
 
 🛡️ Hadron Force Labs
 
-Our main software development project.
+My main software development project.
 
 Developing security-focused desktop software and exploring new possibilities in application development.
 
@@ -57,12 +58,9 @@ Developing security-focused desktop software and exploring new possibilities in 
 
 </div>
 
+💖 Support My Work
 
-
-
-💖 Support Our Work
-
-If you appreciate our work and want to support the development of Hadron Force Labs and Hadron Security, you can donate using the cryptocurrency addresses below.
+If you appreciate my work and want to support the development of Hadron Force Labs and Hadron Security, you can donate using the cryptocurrency addresses below.
 
 ₿ Bitcoin (BEP20)
 text
