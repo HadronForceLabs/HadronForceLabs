@@ -97,6 +97,6 @@ Thank you for supporting independent software development! ❤️
 
 ⚡ Keep Building. Stay Secure.
 
-© 2026 Hadron Force Labs
+© 2027 Hadron Force Labs
 
 </div>
