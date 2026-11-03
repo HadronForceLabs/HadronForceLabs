@@ -1,11 +1,11 @@
 <div align="center">
 
-👋 Hi, I'm Hadron Security
-🛡️ Desktop Application Developer | Cybersecurity Enthusiast
+👋 Hi, We're Hadron Force Labs
+🛡️ Desktop Application Development | Cybersecurity
 
 Building tools. Exploring technology. Developing security solutions.
 
-<img width="100%" src="https://github.com/user-attachments/assets/cb412460-1257-4d5c-9a2c-30175d99d617" alt="Hadron Security Banner" />
+<img width="100%" src="https://github.com/user-attachments/assets/cb412460-1257-4d5c-9a2c-30175d99d617" alt="Hadron Force Labs Banner" />
 
 <br/>
 
@@ -13,16 +13,14 @@ Building tools. Exploring technology. Developing security solutions.
 
 </div>
 
-🚀 About Me
+🚀 About Us
 
-Hello! I'm Hadron Security, a desktop application developer passionate about software development and cybersecurity.
+Welcome to Hadron Force Labs! We are passionate about software development, desktop applications and cybersecurity.
 
-🔭 Currently developing Hadron Security
-🛡️ Interested in cybersecurity and security software
-💻 Developing desktop applications and software tools
-🌱 Currently learning C, C++, Delphi and .NET Framework
-⚙️ Exploring new technologies and programming techniques
-🎯 My goal is to build useful, powerful and reliable software.
+🛡️ Interested in cybersecurity and security software.
+💻 Developing desktop applications and software tools.
+⚙️ Exploring new technologies and programming techniques.
+🎯 Our goal is to build useful, powerful and reliable software.
 🛠️ Languages & Technologies
 💻 Programming Languages
 
@@ -48,37 +46,35 @@ Hello! I'm Hadron Security, a desktop application developer passionate about sof
 
 🛡️ Hadron Security
 
-My main software development project.
+Our main software development project.
 
 Developing security-focused desktop software and exploring new possibilities in application development.
 
 <br/>
 
-<a href="https://github.com/HadronSecurity">
+<a href="https://github.com/HadronSec">
 <img src="https://img.shields.io/badge/Explore-Hadron%20Security-red?style=for-the-badge&logo=github" alt="Explore Hadron Security" />
 </a>
 
 </div>
 
-
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=HadronSecurity&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=HadronSec&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HadronSecurity&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HadronSec&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="95%" src="https://streak-stats.demolab.com/?user=HadronSecurity&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="95%" src="https://streak-stats.demolab.com/?user=HadronSec&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
+💖 Support Our Work
 
-💖 Support My Work
-
-If you appreciate my work and want to support the development of Hadron Security, you can donate using the cryptocurrency addresses below.
+If you appreciate our work and want to support the development of Hadron Force Labs and Hadron Security, you can donate using the cryptocurrency addresses below.
 
 ₿ Bitcoin (BEP20)
 text
@@ -93,8 +89,8 @@ Thank you for supporting independent software development! ❤️
 
 <div align="center">
 
-⚡ Keep Learning. Keep Building. Stay Secure.
+⚡ Keep Building. Stay Secure.
 
-© Hadron Security
+© 2026 Hadron Force Labs
 
 </div>
