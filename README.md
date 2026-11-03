@@ -5,7 +5,8 @@
 
 Building tools. Exploring technology. Developing security solutions.
 
-<img src="https://github.com/HadronSecurity/HadronSecurity/assets/147801258/18b86d4b-807c-4b94-921c-ca6a4a5ff8f7" width="100%" alt="Hadron Security Banner"/>
+<img width="1167" height="896" alt="Hadron Bilgi" src="https://github.com/user-attachments/assets/cb412460-1257-4d5c-9a2c-30175d99d617" />
+
 
 ![GitHub](https://img.shields.io/badge/GitHub-HadronSecurity-181717?style=for-the-badge&logo=github) ![Developer](https://img.shields.io/badge/Role-Desktop%20Developer-blue?style=for-the-badge) ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=hackthebox)
 
