@@ -44,7 +44,7 @@ Welcome to Hadron Force Labs! We are passionate about software development, desk
 
 <div align="center">
 
-🛡️ Hadron Security
+🛡️ Hadron Force Labs
 
 Our main software development project.
 
@@ -52,8 +52,8 @@ Developing security-focused desktop software and exploring new possibilities in 
 
 <br/>
 
-<a href="https://github.com/HadronSec">
-<img src="https://img.shields.io/badge/Explore-Hadron%20Security-red?style=for-the-badge&logo=github" alt="Explore Hadron Security" />
+<a href="https://github.com/HadronForceLabs">
+<img src="https://img.shields.io/badge/Explore-Hadron%20Security-red?style=for-the-badge&logo=github" alt="Explore Hadron Force Labs" />
 </a>
 
 </div>
