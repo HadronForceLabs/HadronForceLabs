@@ -14,16 +14,14 @@ Building tools. Exploring technology. Developing security solutions.
 
 </div>
 
-🚀 About Us
+🚀 About Me
 
-Welcome to Hadron Force Labs! We are passionate about software development, desktop applications and cybersecurity.
+I'm Hadron Force Labs, a developer passionate about software development, desktop applications and cybersecurity.
 
 🛡️ Interested in cybersecurity and security software.
 💻 Developing desktop applications and software tools.
 ⚙️ Exploring new technologies and programming techniques.
-🎯 Our goal is to build useful, powerful and reliable software.
-🛠️ Languages & Technologies
-💻 Programming Languages
+🎯 Focused on creating useful, powerful and reliable software.
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,php,python" alt="Programming Languages" />
