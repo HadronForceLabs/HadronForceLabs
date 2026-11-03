@@ -60,19 +60,21 @@ Developing security-focused desktop software and exploring new possibilities in 
 
 </div>
 
-📊 GitHub Statistics
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HadronSecurity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=HadronSecurity&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadronSecurity&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HadronSecurity&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=HadronSecurity&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="95%" src="https://streak-stats.demolab.com/?user=HadronSecurity&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
 
 💖 Support My Work
 
