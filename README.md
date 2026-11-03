@@ -53,7 +53,7 @@ Developing security-focused desktop software and exploring new possibilities in 
 <br/>
 
 <a href="https://github.com/HadronForceLabs">
-<img src="https://img.shields.io/badge/Explore-Hadron%20Security-red?style=for-the-badge&logo=github" alt="Explore Hadron Force Labs" />
+<img src="https://img.shields.io/badge/Explore-Hadron%20Force%20Labs-red?style=for-the-badge&logo=github" alt="Explore Hadron Force Labs" />
 </a>
 
 </div>
