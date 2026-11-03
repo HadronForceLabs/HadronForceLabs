@@ -40,17 +40,11 @@ I'm Hadron Force Labs, a developer passionate about software development, deskto
 <img src="https://skillicons.dev/icons?i=dotnet,mysql,postgres,git,linux" alt="Frameworks, Databases and Tools" />
 </p>
 
-🔐 Featured Project
-
 <div align="center">
 
 <a href="https://github.com/HadronForceLabs">
 <img src="https://img.shields.io/badge/Explore-Hadron%20Force%20Labs-red?style=for-the-badge&logo=github" alt="Explore Hadron Force Labs" />
 </a>
-My main software development project.
-
-Developing security-focused desktop software and exploring new possibilities in application development.
-<br/>
 
 </div>
 
