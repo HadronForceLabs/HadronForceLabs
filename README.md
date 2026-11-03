@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hadron Security</h1>
 <h3 align="center">Desktop Application Developer</h3>
 
-![Hadron Bilgi](https://github.com/HadronSecurity/HadronSecurity/assets/147801258/39af76e7-42d3-4ac0-b3de-ce9b4b974a53)
+<img width="1167" height="896" alt="Hadron Bilgi" src="https://github.com/user-attachments/assets/788800a2-7960-4f59-972b-8ce6decbf905" />
+
 
 ![analiz](https://github.com/HadronSecurity/HadronSecurity/assets/147801258/18b86d4b-807c-4b94-921c-ca6a4a5ff8f7)
 
